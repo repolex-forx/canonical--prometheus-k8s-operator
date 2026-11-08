@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/canonical/prometheus-k8s-operator/commit/6e45243ff03f4ecdb882fc17ea1f839585b32798",
       "git:hexsha": "6e45243ff03f4ecdb882fc17ea1f839585b32798",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "rev339"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "rev339",
+      "repolex:parsedAt": "2026-11-08T04:32:31.454398+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/prometheus-k8s-operator/commit/ccc2858ac1b2c8d1a4dc1a0293969b94687598f0",
