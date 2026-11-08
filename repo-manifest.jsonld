@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/prometheus-k8s-operator/commit/6e45243ff03f4ecdb882fc17ea1f839585b32798",
       "git:hexsha": "6e45243ff03f4ecdb882fc17ea1f839585b32798",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "rev339"
     },
     {
